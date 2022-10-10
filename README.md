@@ -1,4 +1,4 @@
-### Amaya's missing assignments
+### Amaya's Missing Assignments
 ---
 ##### Homework
 - In-Class Programming 3 (section 2)
