@@ -1,9 +1,9 @@
 ### Amaya's Missing Assignments
 ---
 ##### Homework
-- [ ] In-Class Programming 3 (section 2)
+- [x] In-Class Programming 3 (section 2)
 - [ ] Lab 2
-- [ ] In-Class Programming 7 (section 2)
+- [x] In-Class Programming 7 (section 2)
 - [ ] Project 1
 - [ ] In-Class Programming 8 (sections 2)
 - [ ] Lab 3
